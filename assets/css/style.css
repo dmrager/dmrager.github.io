@@ -1634,7 +1634,8 @@ nav.navbar.stick {
 }
 .section-title > h2 {
   font-family: montserrat;
-  margin: 0 0 38px;
+  margin-top: 5%;
+margin-bottom: 2.5%;		
   position: relative;
   text-transform: uppercase;
 }
